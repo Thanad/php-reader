@@ -1,10 +1,11 @@
 {
-    "name": "zend/php-reader",
-    "description": "Zend Framework 1",
+    "name": "php-reader/php-reader",
+    "description": "PHP Reader in Zend Framework format",
     "type": "library",
     "keywords": [
         "framework",
-        "zf1"
+        "zf1",
+        "php-reader"
     ],
     "license": "BSD-3-Clause",
     "require": {
